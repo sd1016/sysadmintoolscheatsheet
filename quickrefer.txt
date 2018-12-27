@@ -1,1 +1,2 @@
-
+# find
+sudo find / -name file_fullname.extension
