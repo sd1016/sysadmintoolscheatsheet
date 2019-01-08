@@ -1,2 +1,6 @@
 # find
 sudo find / -name file_fullname.extension
+
+#GREPS
+#Mac terminal
+egrep "{regex}" filename
